@@ -1,1 +1,3 @@
-class TagProvider {}
+class TagProvider {
+  int x = 0;
+}
